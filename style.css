@@ -1,0 +1,40 @@
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+div {
+  display: inline-block;
+  border: 1px solid black;
+  width: 200px;
+  height: 200px;
+}
+
+#borda-on {
+  border: 3px solid black ;
+}
+
+.bloco-vermelho{
+  background-color: red;
+  border: none;
+  margin: -1.5px;
+}
+
+.bloco-azul {
+  background-color: blue;
+  border: none;
+  margin: -1.5px;
+}
+
+.bloco-verde {
+  background-color: green;
+  border: none;
+  margin: -1.5px;
+}
+
+.bloco-amarelo {
+  background-color: yellow;
+  border: none;
+  margin: -1.5px;
+}
